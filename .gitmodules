@@ -1,0 +1,6 @@
+[submodule "redux-1"]
+	path = redux-1
+	url = https://github.com/rodrigo-97/redux-1.git
+[submodule "redux-2"]
+	path = redux-2
+	url = https://github.com/rodrigo-97/redux-2.git
